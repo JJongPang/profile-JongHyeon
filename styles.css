@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.main_section {
+    position: relative;
+}
+
+.main__logo {
+    position: absolute;
+    top: 0;
+    width: 250px;
+}
+
+.logo {
+    width: 100%;
+}
